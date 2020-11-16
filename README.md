@@ -41,6 +41,7 @@ wget -P model_data https://pjreddie.com/media/files/yolov3.weights
 wget -P model_data https://github.com/AlexeyAB/darknet/releases/download/darknet_yolo_v3_optimal/yolov4.weights
 
 ```
+### Angel me dio permisos
 
 ### Quick start
 Start with using pretrained weights to test predictions on both image and video:
